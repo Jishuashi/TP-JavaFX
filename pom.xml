@@ -64,7 +64,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>fr.uvsq.iutvelizy.tp1.tpjavafx/fr.uvsq.iutvelizy.tp1.tpjavafx.HelloApplication
+                            <mainClass>fr.uvsq.iutvelizy.tp1.tpjavafx/fr.uvsq.iutvelizy.tp1.tpjavafx.firstView.FirstApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
